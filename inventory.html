@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="pinterest" content="nopin"/>
+
+    <title>Alexia Bareno &mdash; Barcode Scanner</title>
+
+    <!--TAB ICON-->
+    <link rel="icon" href="Images/coffee.png">
+
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="materialize/css/materialize.min.css"  media="screen,projection"/>
+
+    <!-- Styling -->
+    <link rel="stylesheet" type="text/css" href="css/styling.css">
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+<body>
+<!-- NAVIGATION BAR -->
+<nav id="nav">
+    <div class="nav-wrapper">
+        <a href="index.html" class="brand-logo">Alexia Bareno</a>
+        <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+        <ul class="right hide-on-med-and-down">
+            <li><a href="index.html">Portfolio</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+        <ul class="side-nav" id="mobile-demo">
+            <li><a href="index.html">Portfolio</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- INTRO -->
+<div id="intro">
+    <div class="text">
+        <div class="wrapper">
+            <div class="imagegallery">
+                <img src="Images/TVM/mockup.png"/>
+            </div>
+            <h1>Barcode Scanner: Simplifying the Warehouse Inventory Count Process</h1>
+            <p>UX Design &mdash; Mobile</p>
+          <!--  <div class="imagegallery">
+                <img src="Images/tvm.png"/>
+            </div>-->
+        </div>
+    </div>
+</div>
+
+<!-- ABOUT -->
+<div id="about">
+    <div class="text">
+        <div class="wrapper">
+            <h2>01 Background</h2>
+            <p>
+                Barcode Scanner is a mobile application that creates an exportable spreadsheet containing scanned
+                warehouse inventory items. It was designed to improve the inventory process by simplifying
+                the inventory count. I followed a user centered design approach by conducting
+                user research, flow diagrams, sketching/wireframing, development, and testing, all while iterating
+                where necessary.
+            </p>
+
+            <p id="disclaimer">
+                <b>This project was part of my internship experience and in compliance with my non-disclosure agreement,
+                    I have omitted confidential information.
+                </b>
+            </p>
+
+            <h3>How Does Barcode Scanner Work?</h3>
+            <ol>
+                <li>After starting a spreadsheet, the user enters the item number and zone tag ID.</li>
+                <li>Using a Bluetooth barcode scanner paired with their Android phone, the user scans barcodes.</li>
+                <li>After scanning, managers export the spreadsheet for use in the next step of their inventory count
+                process.</li>
+            </ol>
+
+            <h3>Team & Roles</h3>
+            <p>
+                I worked with another IT Intern who developed the app. My role was that of UX Designer, so I conducted
+                user research and interviews, created flows, sketches, UI designs, and usability testing.
+            </p>
+        </div>
+    </div>
+</div>
+
+<!--RESEARCH-->
+<div id="research">
+    <div class="text2">
+        <div class="wrapper">
+            <h2>02 Research</h2>
+            <p>
+                My task was to design an app that would establish a more streamlined way of counting inventory,
+                essentially establishing a common procedure for all branches. The first step was to learn more
+                about my users and ask <i>how</i> they were currently counting inventory and <i>why</i>.
+            </p>
+
+            <h3>User Interviews</h3>
+            <ul class="bullet">
+                <li><b>Who?</b> I recruited seven managers to be in my pilot group. The managers were located in
+                California, Texas, Illinois, Georgia, Louisiana, and Virginia.</li>
+                <li>
+                    <b>What?</b> I wanted to learn more about my users and understand <i>what</i> their methods for
+                    counting inventory were and <i>why</i>. I asked questions on the themes of organization, process,
+                    and tools.
+                    <ul class="bullet2">
+                        <li>Describe your method of organizaton in the warehouse.</li>
+                        <li>Could you please describe the steps you take to do inventory?</li>
+                        <li>Could you please tell me what you use to perform inventory counts?</li>
+                        <li>Tell me about a time that you were frustrated while doing inventory. What was the problem?</li>
+                    </ul>
+                </li>
+                <li><b>Where?</b> One interview was done in person since the warehouse was on-site. The rest were done
+                over the phone.</li>
+            </ul>
+
+            <h3>Interview Findings</h3>
+            <p>In summary, my supervisor and I decided that pursuing the idea of an inventory app would accommodate all
+            branches regardless of size by reducing the amount of effort and time to count their stock.</p>
+            <ol>
+                <li>Larger branches had come up with 'shortcuts' to speed up inventory counts</li>
+                <li>All branches had inventory organized based on item type</li>
+                <li>Smaller branches took about 20-30 mins to do inventory; larger branches took 45min-1hr+</li>
+                <li>Branches once used an inventory tracking software but abandoned it because it became outdated</li>
+            </ol>
+        </div>
+    </div>
+</div>
+
+<!--PLANNING-->
+<div id="architecture">
+    <div class="text">
+        <div class="wrapper">
+            <h2>03 Planning</h2>
+            <h3>User Flow</h3>
+
+            <h4>Brainstorm (User Flow)</h4>
+            <!--MAKE THE IMAGE BELOW A PNG FILE-->
+            <div class="imagegallery">
+                <img src="Images/TVM/flowbrainstorm.PNG"/>
+            </div>
+
+            <h4>User Flow Diagram</h4>
+            <div class="imagegallery">
+                <img src="Images/TVM/flowdiagram.png"/>
+            </div>
+
+            <h3>Sketches</h3>
+            <p>
+                The following rough sketches helped me begin visualizing the interface:
+            </p>
+
+            <div class="imagegallery">
+                <img src="Images/TVM/handsketch1.png"/>
+                <img src="Images/TVM/handsketch2.png"/>
+            </div>
+
+            <h3>UI Mockups</h3>
+            <p>
+                I am not a visual designer, so I used elements of Material Design and followed it as a guideline. All
+                branch managers and warehouse workers were given an Android company phone so I felt it was appropriate
+                to design the app using Material Design.
+            </p>
+
+            <p>
+                Below are some key screens from the app.
+            </p>
+
+            <!--HOME-->
+            <div class="exception2 wrapper keyscreen">
+                <img class="border" src= "Images/TVM/images/image6.png">
+            </div>
+            <div class="exception2 wrapper">
+                <h4>Home</h4>
+                <p>
+                    Upon opening the app, the managers see all created spreadsheets and have the options of opening
+                    a spreadsheet, deleting a spreadsheet, creating a new spreadsheet, and sending (exporting) a
+                    spreadsheet.
+                </p>
+            </div>
+
+            <!--NEW SPREADSHEET-->
+            <div class="exception2 wrapper keyscreen">
+                <img class="border" src= "Images/TVM/images/image4.png">
+            </div>
+            <div class="exception2 wrapper">
+                <h4>New Spreadsheet</h4>
+                <p>
+                    One of the requested features was to make it possible for managers to enter item numbers (which
+                    specify item type) and zone tags (which specify the warehouse location of an item.) Other
+                    barcode scanning apps required managers to input this information every time they scanned a barcode,
+                    but I added two fields for managers to specify this information once. With every scan,
+                    the app will continuously add the item number and zone tag until the manager clears the fields or
+                    changes them.
+                </p>
+            </div>
+
+            <!--SENDING SPREADSHEET-->
+            <div class="exception2 wrapper keyscreen">
+                <img class="border" src= "Images/TVM/images/image2.png">
+            </div>
+            <div class="exception2 wrapper">
+                <h4>Sending a Spreadsheet</h4>
+                <p>
+                    Managers are given options on how they would like to export their spreadsheet. Most preferred
+                    the email method but we gave them a variety of options.
+                </p>
+            </div>
+
+            <h3>Development</h3>
+            <p>
+                I worked with another IT Intern who was comfortable with app development.
+                Since he was working in LA and I in Huntington Beach, we would meet once a week so that I could check
+                in with him. Together, we'd go over his work to make sure that it was reflective of the requirements
+                I had given him.
+            </p>
+
+            <p>
+                It took about three weeks for him to finish the first prototype of the app. After getting approval
+                from our supervisors, I proceeded to test it with my pilot group.
+            </p>
+
+            <h3>Testing</h3>
+            <p>
+                The tasks for testing were very simple:
+            </p>
+
+            <ol>
+                <li>Download the inventory list from the company system</li>
+                <li>Scan 20 items from the warehouse</li>
+                <li>Export the spreadsheet from the app</li>
+                <li>Upload the files from steps 1 and 2 to the audit file and run the macro</li>
+            </ol>
+
+            <p>
+                Since I wasn't able to oversee testing, I had to conduct these tests remotely by handing
+                over the instructions and tools and waiting a week to hear back from the managers. It wasn't the best way
+                to do testing, but it was the only way.
+            </p>
+
+            <p> I conducted another group call to learn about their thoughts
+                and suggestions for improvement. One of the
+                requested changes was that the 'Back' button be moved towards the bottom of the screen because it felt
+                odd to have it towards the top. I agreed that it was awkwardly placed and later realized that by having
+                it towards the bottom, the manager could use their thumb (while holding their phone in one hand) to
+                go back.
+            </p>
+        </div>
+    </div>
+</div>
+
+<!--REFLECTION-->
+<div id="reflection">
+    <div class="text2">
+        <div class="wrapper">
+            <h2>04 Reflection</h2>
+            <p>
+                I was happy to learn that the app was received positively among the group. Unfortunately, because of the
+                priority of other projects, I was unable to pursue the launch of this new process among other branches.
+                It did feel amazing, however, to know that the branches I had worked with during the study decided to
+                continue using the new process.
+            </p>
+
+            <p>
+                I would have changed two things about this project. First, I would have liked to have worked with the
+                other IT intern from the start because I think he would have felt more comfortable working with me
+                and he might have felt more ownership of the project rather than it just being a handoff.
+            </p>
+
+            <p>
+                Second, I would have liked to conduct the testing in person to observe the managers as they used the
+                app and determine if it fit well within the inventory process. I feel like opportunities for insight
+                were lost in having done testing the way we did, but I understand that sometimes situations are not
+                ideal and that's ok. It's about making the best out of what has been given.
+            </p>
+
+            <p>
+                I'm very grateful for this experience because it made me confirm my desire to enter the UX field. It's
+                very fulfilling to know that my efforts made someone's job easier and more enjoyable.
+            </p>
+        </div>
+    </div>
+</div>
+
+
+<!--FOOTER-->
+<footer>
+    <div id="footwrapper">
+        <div id="uparrow">
+            <a href="#nav" class="smoothScrollTarget btn-floating btn-large waves-effect waves-light teal lighten-4">
+                <i class="material-icons black-text">arrow_upward</i>
+            </a>
+        </div>
+        <div><p>Design + Content &copy;2017 Alexia Bareno</p></div>
+    </div>
+</footer>
+
+<!--jQuery-->
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="materialize/js/materialize.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script src="prognroll-master/src/prognroll.js"></script>
+
+<!--PROGRESS BAR-->
+<script>
+    $( document ).ready(function() {
+        /**PROGRESS BAR (https://github.com/mburakerman/prognroll)/**/
+        $("body").prognroll({
+            height: 5, //Progress bar height
+            color: "#aec6cf", //Progress bar background color
+            custom: false //If you make it true, you can add your custom div and see it's scroll progress on the page
+        });
+    });
+</script>
+
+<!--GOOGLE ANALYTICS-->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-87694689-2', 'auto');
+    ga('send', 'pageview');
+
+</script>
+</body>
+</html>
