@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94b9cbe0-6d59-4483-9f6f-a99209bc4c39" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/AL admin persona.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/Administrator_Page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/AgelessConnectSitemap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/admin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/admin_volunteer_log.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/checklist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/contact.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/sign_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/volunteer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/Showcase Poster.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/aaaccountsettings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/aacontact.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/aahandbook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/aahome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/aaloghistory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/aanewentry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/admin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/ageless link personas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/agelesscover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/agelesslanding.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/analysis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/blog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/booth.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/challenges.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/difference.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/landing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/presentation.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/referral.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/signstep1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/signstep2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/signstep3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/signstep4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/signstep5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/signup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/bark + play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/brand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/dogphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/hifi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/hififlow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/meetdog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/mockup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/personas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/resume — alexia bareno.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/sketchflow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/storyboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/systemmap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/twindog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/FinalProjectReport.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/HE.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvaseditorurl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvaserror.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvashistory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvasmessage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvasmodule.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvasmodule2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvaspanel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvaszip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/finalrecs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/mockup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/screenshots/assignments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/screenshots/grades.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/screenshots/quizzes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/tasks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/Resume — Alexia Bareno.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/Affinity Diagram Small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/Affinity Diagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/Brainstorm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/Empathy Map UX.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/Frida.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/Jake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/all_results_list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/all_results_map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/mockuphand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/single_result.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/single_result_pt__2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/studyarea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/flowbrainstorm.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/flowdiagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/handsketch1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/handsketch2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/images/image1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/images/image2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/images/image3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/images/image4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/images/image5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/images/image6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/images/image8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/mockup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/process.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/questions.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/agelesslink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/alexiab+w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/bark+play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/canvas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/coffee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/shouts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/tvm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/alexiabareno.github.io.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/imagehover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/imagehover.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styling.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="alexiabareno.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="alexiabareno.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="styling.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/styling.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3808">
+              <caret line="224" column="1" selection-start-line="224" selection-start-column="1" selection-end-line="224" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="478">
+              <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agelesslink.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/agelesslink.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="canvas.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/canvas.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2346">
+              <caret line="138" column="40" selection-start-line="138" selection-start-column="40" selection-end-line="138" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inventory.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inventory.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/photography.html" />
+        <option value="$PROJECT_DIR$/css/styling.css" />
+        <option value="$PROJECT_DIR$/materialize/css/materialize.css" />
+        <option value="$PROJECT_DIR$/inventory.html" />
+        <option value="$PROJECT_DIR$/bark+play.html" />
+        <option value="$PROJECT_DIR$/shouts.html" />
+        <option value="$PROJECT_DIR$/canvas.html" />
+        <option value="$PROJECT_DIR$/agelesslink.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexbareno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexbareno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexbareno.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexbareno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexbareno.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94b9cbe0-6d59-4483-9f6f-a99209bc4c39" name="Default" comment="" />
+      <created>1500084857224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500084857224</updated>
+      <workItem from="1500084859074" duration="223000" />
+      <workItem from="1500352493569" duration="1326000" />
+      <workItem from="1500526141330" duration="4798000" />
+      <workItem from="1500570815735" duration="1173000" />
+      <workItem from="1500585475762" duration="1190000" />
+      <workItem from="1500604385261" duration="5652000" />
+      <workItem from="1500690429543" duration="2310000" />
+      <workItem from="1500842665361" duration="976000" />
+      <workItem from="1501035810730" duration="641000" />
+      <workItem from="1501103460152" duration="1041000" />
+      <workItem from="1501110368149" duration="5025000" />
+      <workItem from="1501384339171" duration="650000" />
+      <workItem from="1502231193089" duration="1031000" />
+      <workItem from="1502239515469" duration="1581000" />
+      <workItem from="1502243170992" duration="5172000" />
+      <workItem from="1502316087248" duration="18311000" />
+      <workItem from="1502392120134" duration="12237000" />
+      <workItem from="1502411115840" duration="1030000" />
+      <workItem from="1502414235335" duration="3574000" />
+      <workItem from="1502418958466" duration="2470000" />
+      <workItem from="1502427548479" duration="3664000" />
+      <workItem from="1502436471576" duration="343000" />
+      <workItem from="1502488083329" duration="2468000" />
+      <workItem from="1502498954998" duration="269000" />
+      <workItem from="1502570555201" duration="3614000" />
+      <workItem from="1502590620540" duration="778000" />
+      <workItem from="1502684260052" duration="1322000" />
+      <workItem from="1502748947741" duration="666000" />
+      <workItem from="1502758383910" duration="380000" />
+      <workItem from="1502829318266" duration="1207000" />
+      <workItem from="1502868948327" duration="782000" />
+      <workItem from="1506729253730" duration="1288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87192000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13729809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13729809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/inventory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5729">
+          <caret line="337" column="16" selection-start-line="337" selection-start-column="16" selection-end-line="337" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shouts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3638">
+          <caret line="214" column="16" selection-start-line="214" selection-start-column="16" selection-end-line="214" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styling.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3944">
+          <caret line="232" column="18" selection-start-line="232" selection-start-column="18" selection-end-line="232" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bark+play.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shouts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agelesslink.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styling.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3944">
+          <caret line="232" column="18" selection-start-line="232" selection-start-column="18" selection-end-line="232" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bark+play.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shouts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agelesslink.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styling.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3944">
+          <caret line="232" column="18" selection-start-line="232" selection-start-column="18" selection-end-line="232" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bark+play.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shouts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agelesslink.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inventory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="118" column="75" selection-start-line="118" selection-start-column="75" selection-end-line="118" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styling.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3944">
+          <caret line="232" column="18" selection-start-line="232" selection-start-column="18" selection-end-line="232" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inventory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="118" column="75" selection-start-line="118" selection-start-column="75" selection-end-line="118" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styling.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="234" column="0" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inventory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3910">
+          <caret line="230" column="75" selection-start-line="230" selection-start-column="75" selection-end-line="230" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="118" column="75" selection-start-line="118" selection-start-column="75" selection-end-line="118" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agelesslink.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bark+play.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6477">
+          <caret line="381" column="22" selection-start-line="368" selection-start-column="12" selection-end-line="381" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styling.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="234" column="0" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inventory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3910">
+          <caret line="230" column="75" selection-start-line="230" selection-start-column="75" selection-end-line="230" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bark+play.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6477">
+          <caret line="381" column="22" selection-start-line="368" selection-start-column="12" selection-end-line="381" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styling.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="234" column="0" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inventory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bark+play.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6477">
+          <caret line="381" column="22" selection-start-line="368" selection-start-column="12" selection-end-line="381" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styling.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="234" column="0" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="88" selection-start-line="102" selection-start-column="88" selection-end-line="102" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photography.html" />
+    <entry file="file://$PROJECT_DIR$/materialize/css/materialize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="4649" column="19" selection-start-line="4649" selection-start-column="19" selection-end-line="4649" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bark+play.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="386" column="55" selection-start-line="386" selection-start-column="55" selection-end-line="386" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shouts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="235" column="35" selection-start-line="235" selection-start-column="35" selection-end-line="235" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/canvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="138" column="40" selection-start-line="138" selection-start-column="40" selection-end-line="138" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inventory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agelesslink.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styling.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3808">
+          <caret line="224" column="1" selection-start-line="224" selection-start-column="1" selection-end-line="224" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
