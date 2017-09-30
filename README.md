@@ -1,5 +1,5 @@
 # alexiabareno.github.io
-## Personal UX Portfolio
+## Project Portfolio
 *Design + Content on this portfolio belongs to me unless stated. For open source code, I have linked to where I found it directly on
 the HTML files.*
 
