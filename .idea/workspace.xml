@@ -2,134 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94b9cbe0-6d59-4483-9f6f-a99209bc4c39" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/AL admin persona.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/Administrator_Page.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/AgelessConnectSitemap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/admin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/admin_volunteer_log.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/checklist.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/contact.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/login.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/sign_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/FIRSTGEN/volunteer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/Showcase Poster.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/aaaccountsettings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/aacontact.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/aahandbook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/aahome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/aaloghistory.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/aanewentry.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/admin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/ageless link personas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/agelesscover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/agelesslanding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/analysis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/blog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/booth.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/challenges.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/difference.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/landing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/login.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/presentation.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/referral.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/signstep1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/signstep2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/signstep3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/signstep4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/signstep5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/AGELESS/signup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/bark + play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/brand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/dogphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/hifi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/hififlow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/iPhone 67 – 9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/meetdog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/mockup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/personas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/resume — alexia bareno.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/sketchflow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/storyboard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/systemmap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BARK+PLAY/twindog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/FinalProjectReport.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/HE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvaseditorurl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvaserror.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvashistory.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvasmessage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvasmodule.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvasmodule2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvaspanel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/canvaszip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/finalrecs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/mockup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/screenshots/assignments.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/screenshots/grades.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/screenshots/quizzes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/CANVAS/tasks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/Resume — Alexia Bareno.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/Affinity Diagram Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/Affinity Diagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/Brainstorm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/Empathy Map UX.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/Frida.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/Jake.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/all_results_list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/all_results_map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/mockuphand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/single_result.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/single_result_pt__2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/SHOUTS/studyarea.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/TVM/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/agelesslink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/alexiab+w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/bark+play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/canvas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/coffee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/shouts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/tvm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/alexiabareno.github.io.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/imagehover.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/imagehover.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styling.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/agelesslink.html" afterPath="$PROJECT_DIR$/agelesslink.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bark+play.html" afterPath="$PROJECT_DIR$/bark+play.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/canvas.html" afterPath="$PROJECT_DIR$/canvas.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inventory.html" afterPath="$PROJECT_DIR$/inventory.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shouts.html" afterPath="$PROJECT_DIR$/shouts.html" />
     </list>
     <ignored path="alexiabareno.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -160,21 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+            <state relative-caret-position="357">
+              <caret line="112" column="33" selection-start-line="112" selection-start-column="33" selection-end-line="112" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -183,8 +52,18 @@
       <file leaf-file-name="agelesslink.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/agelesslink.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+            <state relative-caret-position="493">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bark+play.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bark+play.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -193,8 +72,8 @@
       <file leaf-file-name="canvas.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/canvas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2346">
-              <caret line="138" column="40" selection-start-line="138" selection-start-column="40" selection-end-line="138" selection-end-column="40" />
+            <state relative-caret-position="289">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -203,8 +82,18 @@
       <file leaf-file-name="inventory.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inventory.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+            <state relative-caret-position="408">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shouts.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shouts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -221,13 +110,13 @@
         <option value="$PROJECT_DIR$/photography.html" />
         <option value="$PROJECT_DIR$/css/styling.css" />
         <option value="$PROJECT_DIR$/materialize/css/materialize.css" />
-        <option value="$PROJECT_DIR$/inventory.html" />
-        <option value="$PROJECT_DIR$/bark+play.html" />
-        <option value="$PROJECT_DIR$/shouts.html" />
-        <option value="$PROJECT_DIR$/canvas.html" />
-        <option value="$PROJECT_DIR$/agelesslink.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/agelesslink.html" />
+        <option value="$PROJECT_DIR$/bark+play.html" />
+        <option value="$PROJECT_DIR$/canvas.html" />
+        <option value="$PROJECT_DIR$/inventory.html" />
+        <option value="$PROJECT_DIR$/shouts.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -244,7 +133,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1370" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -272,7 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -307,7 +196,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -406,18 +295,20 @@
       <workItem from="1502758383910" duration="380000" />
       <workItem from="1502829318266" duration="1207000" />
       <workItem from="1502868948327" duration="782000" />
-      <workItem from="1506729253730" duration="1329000" />
+      <workItem from="1506729253730" duration="1922000" />
+      <workItem from="1506806795168" duration="127000" />
+      <workItem from="1508454126758" duration="1485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87233000" />
+    <option name="totallyTimeSpent" value="89438000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13729809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1366322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -757,52 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bark+play.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="386" column="55" selection-start-line="386" selection-start-column="55" selection-end-line="386" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shouts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49">
-          <caret line="235" column="35" selection-start-line="235" selection-start-column="35" selection-end-line="235" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canvas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2346">
-          <caret line="138" column="40" selection-start-line="138" selection-start-column="40" selection-end-line="138" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inventory.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/agelesslink.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/styling.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3808">
@@ -813,8 +658,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+        <state relative-caret-position="408">
+          <caret line="80" column="40" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agelesslink.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bark+play.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/canvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inventory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shouts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="112" column="33" selection-start-line="112" selection-start-column="33" selection-end-line="112" selection-end-column="33" />
           <folding />
         </state>
       </provider>
